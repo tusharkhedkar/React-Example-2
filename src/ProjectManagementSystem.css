@@ -1,0 +1,17 @@
+.Project {
+  width: 30%;
+  margin: auto;
+}
+li {
+   float: left;
+ }
+ 
+ li a {
+   display: block;
+   text-align: center;
+ }
+ 
+ ul {
+    list-style: none;
+    margin-left: -35px;
+ }
